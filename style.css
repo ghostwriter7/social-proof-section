@@ -79,6 +79,9 @@ main {
   border-radius: 0.5rem;
   min-width: 80%;
 }
+.rate .stars {
+  display: inline-block;
+}
 .rate span {
   font-weight: 700;
   color: var(--primary-dark-magenta);
